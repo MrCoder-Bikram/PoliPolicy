@@ -12,7 +12,7 @@ export function ImageWithFallback({
   src,
   alt,
   className = '',
-  fallbackTitle = 'PolicyPulse Health Coverage',
+  fallbackTitle = 'PoliPolicy Health Coverage',
 }: ImageWithFallbackProps) {
   const [failed, setFailed] = useState(false);
 

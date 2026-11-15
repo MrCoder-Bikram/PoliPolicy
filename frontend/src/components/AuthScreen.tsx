@@ -95,12 +95,12 @@ export function AuthScreen({
             className="inline-flex items-center gap-2 text-sm font-medium text-[#66766b] transition-colors hover:text-[#55713d] whitespace-nowrap"
           >
             <ArrowLeft className="w-4 h-4" aria-hidden="true" />
-            <span>Back to PolicyPulse Home</span>
+            <span>Back to PoliPolicy Home</span>
           </button>
 
           <div className="mt-10">
             <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#75934e]">
-              PolicyPulse Portal
+              PoliPolicy Portal
             </p>
             <h1 className="mt-2 font-display text-3xl font-semibold tracking-tight text-[#18342b] sm:text-4xl">
               {mode === 'login' ? 'Sign in to your account' : 'Create your member account'}

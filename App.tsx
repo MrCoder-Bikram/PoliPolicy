@@ -139,7 +139,7 @@ export default function App() {
   if (!authChecked && view === 'portal') {
     return (
       <div className="min-h-screen bg-[#F7F9F8] flex items-center justify-center text-sm text-[#475569]">
-        Loading PolicyPulse Portal...
+        Loading PoliPolicy Portal...
       </div>
     );
   }

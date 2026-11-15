@@ -247,7 +247,7 @@ export function LandingPage({
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#d7ed78] text-[11px] font-black text-[#18342b]">
               P.
             </span>
-            PolicyPulse
+            PoliPolicy
           </a>
 
           <nav
@@ -886,7 +886,7 @@ export function LandingPage({
         <section id="workflow" className="max-w-7xl mx-auto px-6 py-14 border-t border-[#E2E8F0]">
           <div className="max-w-2xl">
             <p className="text-xs font-semibold uppercase tracking-wider text-[#4F46E5]">
-              How PolicyPulse Works
+              How PoliPolicy Works
             </p>
             <h2 className="mt-2 font-display text-3xl font-bold tracking-tight text-[#0E1A40]">
               One unified system for members and underwriters
@@ -991,7 +991,7 @@ export function LandingPage({
           <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
             <blockquote className="bg-white border border-[#E2E8F0] rounded-2xl p-6 flex flex-col justify-between shadow-xs">
               <p className="text-sm text-[#334155] leading-relaxed">
-                &ldquo;We moved from paper claim folders to PolicyPulse before our daughter&apos;s
+                &ldquo;We moved from paper claim folders to PoliPolicy before our daughter&apos;s
                 ear procedure. Our Family Floater claim moved from Pending to Approved in under 18
                 hours.&rdquo;
               </p>
@@ -1025,7 +1025,7 @@ export function LandingPage({
               <footer className="mt-6 pt-4 border-t border-[#F1F5F9]">
                 <p className="text-sm font-semibold text-[#0E1A40]">Elena Vance</p>
                 <p className="text-xs text-[#4F46E5] font-medium">
-                  Lead Underwriting Administrator · PolicyPulse Operations
+                  Lead Underwriting Administrator · PoliPolicy Operations
                 </p>
               </footer>
             </blockquote>
@@ -1199,7 +1199,7 @@ export function LandingPage({
       <footer className="border-t border-[#E2E8F0] bg-[#0E1A40] text-white">
         <div className="max-w-7xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs text-[#CBD5E1]">
           <div>
-            <span className="font-display font-bold text-sm text-white">PolicyPulse</span>
+            <span className="font-display font-bold text-sm text-white">PoliPolicy</span>
             <span className="ml-3">
               Demonstrative Health Insurance Management System (illustrative plans &amp; records).
             </span>

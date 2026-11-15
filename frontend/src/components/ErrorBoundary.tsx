@@ -23,7 +23,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
   }
 
   componentDidCatch(error: Error, info: ErrorInfo) {
-    console.error('PolicyPulse UI ErrorBoundary caught error:', error, info);
+    console.error('PoliPolicy UI ErrorBoundary caught error:', error, info);
   }
 
   handleReload = () => {
@@ -45,7 +45,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
               PP
             </div>
             <h1 className="font-display text-xl font-bold text-[#0E1A40]">
-              PolicyPulse encountered a display issue
+              PoliPolicy encountered a display issue
             </h1>
             <p className="text-sm text-[#475569] leading-relaxed">
               {this.state.message ||
